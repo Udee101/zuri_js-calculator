@@ -10,8 +10,8 @@ function clearScreen() {
 
 //carry out calculations
 function calculate() {
-  let x = document.getElementById('result').value;
-  let y = eval(x);
+  let a = document.getElementById('result').value;
+  let b = eval(a);
 
-  document.getElementById('result').value = y
+  document.getElementById('result').value = b
 }
