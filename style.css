@@ -35,7 +35,7 @@ input[type = button]{
   font-size: 20px;
 }
 input:active[type=button]{ 
-  box-shadow: inset 0px 0px 5px #b5afaf;
+  box-shadow: inset 0px 0px 5px #b7b0b0;
 }
 input[type=button]:hover{
   background: #7b7b7b;
